@@ -262,6 +262,7 @@ section {
   font-weight: 600;
   font-size: 0.875rem;
   opacity: 0.9;
+  margin: 0;
 }
 
 /* Mobile Menu Toggle */
@@ -1048,7 +1049,7 @@ section {
 
 @media screen and (max-width:1200px) {
   .nav-menu {
-    gap: 10px !important;
+    gap: 4px !important;
   }
 }
 
@@ -1074,7 +1075,7 @@ section {
 }
 
 /* Mobile (max-width: 768px) */
-@media (max-width: 992px) {
+@media (max-width: 1024px) {
   :root {
     --font-size-base: 14px;
   }
