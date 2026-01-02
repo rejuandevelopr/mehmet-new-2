@@ -346,16 +346,16 @@ section {
 }
 
 .lang-btn.english:hover {
-  background: var(--accent-blue);
+  background: var(--secondary-color);
   color: var(--text-light);
-  border-color: var(--accent-blue);
+  border-color: var(--secondary-color);
   transform: translateY(-2px);
 }
 
 .lang-btn.french:hover {
-  background: var(--secondary-color);
+  background: var(--accent-blue);
   color: var(--text-light);
-  border-color: var(--secondary-color);
+  border-color: var(--accent-blue);
   transform: translateY(-2px);
 }
 
